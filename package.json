@@ -7,6 +7,6 @@
   "author": "Ayush Bhowmick <ceo@saged.io>",
   "license": "MIT",
   "dependencies": {
-    "elliptic": "^6.5.2"
+    "elliptic": "^6.5.4"
   }
 }
